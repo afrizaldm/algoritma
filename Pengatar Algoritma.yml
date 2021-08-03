@@ -1,0 +1,73 @@
+1. Pengantar Algoritma
+  - Pengertian Algoritma
+  - Sejarah ( Penemuan, dll )
+  - Analogi Algoritma
+    + Masalah ( Sebelum ada algoritma pasti diawali dengan sebuah masalah )
+    + Algoritma ( Jangan membuat algoritma tanpa masalah )
+    + Hasil berupa solusi
+  - Mendeskripsikan Masalah
+    + Menjabarkan Masalah
+    + Merinci masalah untuk di selesaikan ( di pisah2 menjadi masalah yang lebih kecil )
+    + Bentuk urutan masalah
+  - Kesimpulan
+2. Notasi Algoritma
+  - Untaian kalimat deskriptif
+  - Flowchart
+    + Simbol / Notasi Dasar
+    + Analogi Deklarasi Variabel
+    + Pemecahan Masalah
+  - Pseudocode ?
+    + Langkah-langkah pemecahan masalah dengan menggunakan kode yang tak terikat pada bahasa pemograman tertentu
+3. Variable, Konstanta
+  - Konstanta -> suatu elemen yang nilainya sudah ditetapkan ( Phi, dll )
+  - Variable -> suatu elemen yang nilainya berubah-ubah ( tidak tetap )
+  - Aturan Deklarasi Variabel dan Konstanta
+4. Tipe Data
+5. Operator Pemograman
+  - Operator penugasan ( x = 2 )
+  - Operator aritmatika ( +   -   *   /   %   ++   -- )
+  - Operator Pembanding ( x >= 3 )
+  - Operator Logika ( &&   ||   ! )
+    + Table Kebenaran Operator Logika
+5. Logika Percabangan
+  - Analogi
+  - IF Tunggal ( IF )
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+  - IF Ganda ( IF Else )
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+  - IF Majemuk ( IF ElseIf )
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+  - Switch Case
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+6. Logika Perulangan
+  - Analogi
+  - Perulangan FOR
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+  - Perulangan While
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+  - Perulangan DO..While
+    + Analogi
+    + Flowchart
+    + PseudoCode ?
+  - Perulangan Foreach ( Tipe data Array )
+7. Logika Array
+  - Analogi
+  - Flowchart
+  - PseudoCode ?
+8. Logika Function ?
+  - Analogi
+  - Flowchart
+  - PseudoCode ?
+9. Logika Argument & Parameter pada Function ?
